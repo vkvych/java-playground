@@ -1,2 +1,2 @@
-rootProject.name = "playground-java17"
+rootProject.name = "playground-java21"
 
